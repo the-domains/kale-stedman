@@ -1,7 +1,7 @@
 name: Kale Stedman
 favicon: null
-layout_spectrum: 0.1678292080760002
-typography_spectrum: 0.541748124640435
+layout_spectrum: 1
+typography_spectrum: 0.30037
 cta:
   domain: null
   bucket: null
@@ -16,13 +16,13 @@ opengraph:
   appId: null
 color:
   brandColors:
-    - '#ADD7F6'
-    - '#87BFFF'
-    - '#3F8EFC'
-    - '#2667FF'
-    - '#3B28CC'
-  brandStrength: 0.40885761147364974
-  lightness: 0.9573529441840947
-  saturation: 0.8013198268599808
+    - '#fdfef6'
+    - '#0e040c'
+    - '#312d2d'
+    - '#6d6d6b'
+    - '#deb99f'
+  brandStrength: 0.4375
+  lightness: 0.6875
+  saturation: 0.375
   rhythmicContrast: 0.7015422019176185
 purpose: []
